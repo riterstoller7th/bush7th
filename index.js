@@ -1,6 +1,6 @@
 x = -1
 function thickofit() {
-  x = x + 1
+x = x + 1
 if(x==0)
   document.getElementbyId("story").innerHTML = "I\'m in the thick of it, everybody knows"
 else if(x==1)
