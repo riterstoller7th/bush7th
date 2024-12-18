@@ -35,5 +35,4 @@ else if(x==15)
   document.getElementById("story").innerHTML = "I\'m in the thick of it, everybody knows. They know me where it snows, I skied in and they froze. I don\'t know no nothin\' \'bout no ice, I\'m just cold. Forty somethin\' milli\' subs or so, I\'ve been told x 2"
 else if(x==16)
   document.getElementById("story").innerHTML = "Woah-oh-oh (nah-nah-nah-nah, ayy, ayy). This is how the story goes (nah, nah) Woah-oh-oh, I guess this is how the story goes!"
-  x = -1
 }
